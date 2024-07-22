@@ -1,0 +1,22 @@
+﻿{
+	"name": "PARADOX That One TIME WARPING Game",
+	"description": "A game about repeating the same level multiple times, with new mechanics every time.",
+	"version": "a1.0.0",
+	"launch_path": "/paradox/",
+	"orientation": ["portrait", "landscape"],
+	"icons": {
+		"16": "/paradox/icon-16.png",
+		"32": "/paradox/icon-32.png",
+		"128": "/paradox/icon-128.png",
+		"256": "/paradox/icon-256.png"
+	},
+	"developer": {
+		"name": "Cheps' Productions",
+		"url": ""
+	},
+	"default_locale": "en",
+	"permissions": {
+	},
+	"appcache_path": "/paradox/offline.appcache",
+	"fullscreen": "false"
+}
